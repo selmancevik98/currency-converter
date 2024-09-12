@@ -1,0 +1,38 @@
+.currency-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.currency-to-div {
+    margin-top: 10px;
+}
+
+.amount {
+    width: auto;
+    height: 30px;
+}
+
+.result {
+    width: auto;
+    height: 30px;
+}
+
+.from-currency-option {
+    width: auto;
+    height: 30px;
+    margin-left: 10px;
+}
+
+
+.to-currency-option {
+    width: auto;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.convert-btn {
+    margin-top: 20px;
+}
