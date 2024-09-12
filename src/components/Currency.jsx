@@ -4,7 +4,7 @@ import axios from 'axios'
 
 
 let BASE_URL = 'https://api.freecurrencyapi.com/v1/latest';
-let API_KEY = 'fca_live_DqaiPB4ww1b273X46Dg7Baw1vOwUEdBuRSFzsR4M';
+let API_KEY = 'YOUR_API_KEY';
 
 
 
